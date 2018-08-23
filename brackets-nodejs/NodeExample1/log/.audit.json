@@ -1,0 +1,49 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 1000
+    },
+    "auditLog": "log/.audit.json",
+    "files": [
+        {
+            "date": 1528378188365,
+            "name": "log/server._yyyy-06-Th.6/7/2018og",
+            "hash": "2510a9743a9a045ae332b4198a1d2092"
+        },
+        {
+            "date": 1528378188367,
+            "name": "log/exception._yyyy-06-Th.6/7/2018og",
+            "hash": "0b6c6916ec9bdeb36b841b3ca930acb3"
+        },
+        {
+            "date": 1528378309389,
+            "name": "log/server._yyyy-06-Th.6/7/2018og",
+            "hash": "e536bbffa50eb0230b9c36d1c5d7bced"
+        },
+        {
+            "date": 1528378309392,
+            "name": "log/exception._yyyy-06-Th.6/7/2018og",
+            "hash": "766fa23cd3870559c786a182b2d186da"
+        },
+        {
+            "date": 1528378318525,
+            "name": "log/server._yyyy-06-Th.6/7/2018og",
+            "hash": "9347a9c69e745f22ade92cada06e3844"
+        },
+        {
+            "date": 1528378318529,
+            "name": "log/exception._yyyy-06-Th.6/7/2018og",
+            "hash": "96856a942a40cb15269220f860ec7a8d"
+        },
+        {
+            "date": 1528378510004,
+            "name": "log/server._yyyy-06-Th.6/7/2018og",
+            "hash": "459fe52f53b46b77aa601f3fc3bc4030"
+        },
+        {
+            "date": 1528378510006,
+            "name": "log/exception._yyyy-06-Th.6/7/2018og",
+            "hash": "b9771f8a105443c65251407f0a3e0928"
+        }
+    ]
+}
